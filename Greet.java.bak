@@ -3,5 +3,8 @@ Hello
 Welcome to Insert
 Welcome to File
 Welcome To Creation
+<<<<<<< HEAD
 Last Line
+=======
 Hello This Is Last Line Changes.... Modifications For this Last Line.
+>>>>>>> 7e16a93c9557961d61ccdb81a8c2c3e9f89b223d
